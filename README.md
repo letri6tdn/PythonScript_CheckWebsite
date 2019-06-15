@@ -12,7 +12,7 @@
   - [ ] Changing from manual string comparison to a hash comparison
   - [ ] Maybe implementing a UI
   
- ## ***Posible issues***:
+ ## ***Possible issues***:
   - DDoS signal to the website server
   - How to ignore minor changes (?)
   - Is the HTML always stable (?)
